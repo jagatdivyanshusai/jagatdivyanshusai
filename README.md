@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jagatdivyanshusai
-- 👀 I’m interested in Gaming and filmaking
-- 🌱 I’m currently learning blockchain coding
+- 👀 I’m interested in Gaming and filmmaking
+- 🌱 I’m currently learning about blockchain and Gen AI 
 - 💞️ I’m looking to collaborate on gaming project
 - 📫 How to reach me 
 
